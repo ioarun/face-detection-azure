@@ -3,6 +3,8 @@ Face, Emotion, Age, Gender Detection Using Microsoft Azure Face API
 
 Demo: https://youtu.be/e0xqMmpjYL8
 
+![Image](./face-detection-azure.gif)
+
 :star: Star me on GitHub — it helps!
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/ioarun/face-detection-azure/commits/main)
